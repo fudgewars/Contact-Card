@@ -34,3 +34,8 @@ h2 {
 .imgcontainer:hover {
     opacity: 0.8;
 }
+.prf-img-fluid {
+    max-width: 100%;
+    height: auto;
+    
+}
