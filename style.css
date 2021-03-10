@@ -2,6 +2,7 @@ body {
     background-image: linear-gradient(rgba(154,242,255),rgba(255,255,255));
 /*     background-size: cover;
     background-position: 50% 30%; */
+    background-repeat: no-repeat;
 }
 
 
@@ -40,5 +41,5 @@ h2 {
     
 }
 .smaller-svg {
-    height: 30%;
+    height: 70%;
 }
