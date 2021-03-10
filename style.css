@@ -1,13 +1,13 @@
 body {
-    background-image: linear-gradient(rgba(154,242,255),rgba(255,255,255));
-    background-size: cover;
-    /*background-position: 50% 30%; */
+    background-image: linear-gradient(rgba(54,229,255),rgba(10,136,134));
+    /*background-size: cover;
+    background-position: 50% 30%; */
     background-repeat: no-repeat;
 }
 
 
 .card-body {
-    background-color: peach;
+/*     background-color: peach; */
 }
 
 .card {
@@ -41,5 +41,5 @@ h2 {
     
 }
 .smaller-svg {
-    height: 70%;
+    height: 60%;
 }
