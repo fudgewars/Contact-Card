@@ -1,1 +1,36 @@
+body {
+    background-image: linear-gradient(rgba(154,242,255),rgba(255,255,255));
+    background-size: cover;
+    background-position: 50% 30%;
+}
 
+
+.card-body {
+    background-color: (242, 242, 242, 0.4);
+}
+
+.card {
+    background-color: rgba(242, 247, 230, 0.7);
+    border-radius: 15px 50px;
+}
+
+svg path, svg polygon  {
+    fill: black;
+    
+}
+svg:hover path, svg:hover polygon {
+    background-color: (121,121,121, 1);
+   transition-delay: 200ms;
+    fill: grey;
+}   
+
+h2 {
+    font: Helvetica;
+    font-kerning: normal;
+    font-weight: bold;
+    letter-spacing: 3px;
+}
+
+.imgcontainer:hover {
+    opacity: 0.8;
+}
