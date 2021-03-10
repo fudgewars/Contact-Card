@@ -6,7 +6,7 @@ body {
 
 
 .card-body {
-    background-color: coral;
+    background-color: peach;
 }
 
 .card {
@@ -40,5 +40,5 @@ h2 {
     
 }
 .smaller-svg {
-    height: 80%;
+    height: 30%;
 }
